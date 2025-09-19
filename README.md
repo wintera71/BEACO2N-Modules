@@ -21,4 +21,3 @@ These lessons introduce data science skills and general atmospheric chemistry co
   <img src="https://raw.githubusercontent.com/wintera71/BEACO2N-Modules/main/Lesson%203%3A%20Wildfires/CSVs/Logo_white.png" width="600">
 </p>
 
-![Logo](https://raw.githubusercontent.com/wintera71/BEACO2N-Modules/main/Lesson%203%3A%20Wildfires/CSVs/Logo_white.png)
