@@ -8,6 +8,8 @@ These lessons introduce data science skills and general atmospheric chemistry co
 5. You now have your own editable copy of the notebook
 
 # Learning Objectives
+The lessons aim to build both practical data literacy and scientific understanding. The general learning objectives are:
+
 1. Students will gain introductory experience with Python programming and data science tools, including:
    - Importing, cleaning, and working with raw datasets.  
    - Performing data operations and calculations.  
