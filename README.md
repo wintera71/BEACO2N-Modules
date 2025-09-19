@@ -17,4 +17,6 @@ These lessons introduce data science skills and general atmospheric chemistry co
 3. Students will develop an understanding of human influences on CO2 concentrations and the role of greenhouse gases in climate change.
 4. Students will increase environmental literacy and awareness about local air quality challenges.
 
+<img src="https://raw.githubusercontent.com/wintera71/BEACO2N-Modules/main/Lesson%203%3A%20Wildfires/CSVs/Logo_white.png" width="200">
+
 ![Logo](https://raw.githubusercontent.com/wintera71/BEACO2N-Modules/main/Lesson%203%3A%20Wildfires/CSVs/Logo_white.png)
