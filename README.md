@@ -9,10 +9,10 @@ These lessons introduce data science skills and general atmospheric chemistry co
 
 # Learning Objectives
 1. Students will gain introductory experience with Python programming and data science tools, including:
-	a. Importing, cleaning, and working with raw datasets.
-	b. Performing data operations and calculations.
-	c. Producing and interpreting data visualizations.
-	d. Troubleshooting errors.
+   - Importing, cleaning, and working with raw datasets.  
+   - Performing data operations and calculations.  
+   - Producing and interpreting data visualizations.  
+   - Troubleshooting errors.
 2. Students will practice scientific reasoning by forming and testing hypotheses with real-world data.
 3. Students will develop an understanding of human influences on CO2 concentrations and the role of greenhouse gases in climate change.
 4. Students will increase environmental literacy and awareness about local air quality challenges.
