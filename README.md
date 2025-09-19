@@ -1,4 +1,4 @@
-# BEACO2N-Modules
+# BEACO<sub>2</sub>N-Modules
 These lessons introduce data science skills and general atmospheric chemistry concepts using data from the [Berkeley Environmental Air Quality and CO2 Network](https://beacon.berkeley.edu/about/) (BEACO2N). 
 
 # How to use the lessons
