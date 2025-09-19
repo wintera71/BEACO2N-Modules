@@ -6,3 +6,14 @@ These lessons introduce data science skills and general atmospheric chemistry co
 2. At the top of the notebook, click the `Open in Colab` button to launch it in Google Colab
 4. In Colab, go to `File` -> `Save a Copy in Drive`
 5. You now have your own editable copy of the notebook
+
+# Learning Objectives
+1. Students will gain introductory experience with Python programming and data science tools, including:
+	a. Importing, cleaning, and working with raw datasets.
+	b. Performing data operations and calculations.
+	c. Producing and interpreting data visualizations.
+	d. Troubleshooting errors.
+2. Students will practice scientific reasoning by forming and testing hypotheses with real-world data.
+3. Students will develop an understanding of human influences on CO2 concentrations and the role of greenhouse gases in climate change.
+4. Students will increase environmental literacy and awareness about local air quality challenges.
+
