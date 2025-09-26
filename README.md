@@ -20,7 +20,7 @@ The lessons aim to build both practical data literacy and scientific understandi
 4. Students will increase environmental literacy and awareness about local air quality challenges.
 
 # Lesson Structure
-Each lesson is scaffolded through two complementary components: an In-Class notebook and a Student Exploration notebook. The In-Class notebooks are for the instructor to walk through with the class as a whole, and the Student Exploration notebooks are for the students to explore the data on their own. As the notebooks are designed for students who have minimal previous coding experience, the In-Class notebooks provide much of the skeleton code for students and only require them to run the code or make small changes. The Student Exploration notebooks involve more student coding.
+Each lesson is scaffolded through two complementary components: an In-Class notebook and a Student Exploration notebook. The In-Class notebooks are for the instructor to walk through with the class as a whole, and the Student Exploration notebooks are for the students to explore the data on their own. This choice is flexible and teachers and students can choose an alternative arrangement. As the notebooks are designed for students who have minimal previous coding experience, the In-Class notebooks provide much of the skeleton code for students and only require them to run the code or make small changes. The Student Exploration notebooks involve more student coding.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/wintera71/BEACO2N-Modules/main/Lesson%203%3A%20Wildfires/CSVs/Logo_white.png" width="600">
